@@ -1,4 +1,8 @@
 # Redis 기초 이해하기
+  해당 내용은 이론 실습 시험 형태로 구성 되어져 있습니다.
+  세부 쿼리 큘럼은 docs/Redis Basics Tutorials/Redis 학습 커리큘럼.md 세부내용을 확인 하세요요
+
+# Redis 기초 이해하기
 
 Redis는 "REmote DIctionary Server"의 약자로, 인메모리 기반의 고성능 키-값 데이터 저장소입니다.
 

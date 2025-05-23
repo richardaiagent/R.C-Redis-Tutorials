@@ -38,6 +38,7 @@ docker exec -it redis redis-cli ping
 
 ### Step 0: Redis 기초 이해
 - Redis 개념 및 특징
+- Rfdis 초급, 중급, 고급 실습 및 시험 쿼리큘럼
 - Docker 기반 Redis 환경 구축
 
 ### Step 1: Redis 컨테이너화
